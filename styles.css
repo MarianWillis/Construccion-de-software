@@ -6,7 +6,7 @@ body {
 
 
 .menu {
-  background-color: #DEB887;
+  background-color: #8FBC8F;
   padding: 10px 0;
 }
 
@@ -32,6 +32,6 @@ body {
 
 .menu a:hover {
   color: #fff;
-  background-color: #8FBC8F;
+  background-color: #DEB887;
   border-radius: 5px;
 }
